@@ -43,7 +43,6 @@ O sistema é destinado a:
 ## Limitações do Projeto
 O projeto não incluirá:
 - Sistema de cadastro ou login de usuários
-- Armazenamento permanente de dados em banco
 - Funcionalidades avançadas como comentários ou interação social
 ## Entregáveis
 Ao final do projeto será entregue:
