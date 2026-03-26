@@ -25,7 +25,7 @@ O sistema deverá:
 ## Tecnologias Utilizadas
 - Front-end: HTML, CSS e JavaScript
 - Back-end: Python (Flask)
-- Banco de dados: Não utilizado (dados consumidos diretamente da API)
+- Banco de dados: PostegreSQL
 - API externa: GNews
 - Hospedagem: Render
 # Estrutura do Sistema
