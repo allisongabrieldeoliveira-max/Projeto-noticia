@@ -61,3 +61,7 @@ Pedro e Filipe
 O projeto tem como foco a prática de desenvolvimento web utilizando Python no
 back-end e integração com API externa, permitindo consolidar conhecimentos
 adquiridos em sala de aula.
+
+## LINK
+
+https://projeto-theta-flame.vercel.app/
